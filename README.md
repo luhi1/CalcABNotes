@@ -1,3 +1,8 @@
+# NOTES ARE LOCATED IN /VAULT IF YOU NEED THEM GUYS!
+
+
+
+
 # Dendron Workspace Template for GitHub Pages publishing (via GitHub Actions)
 
 - [View the Demo Website](https://dendronhq.github.io/template.publish.github-action/)
